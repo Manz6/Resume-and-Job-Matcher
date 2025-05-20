@@ -2,6 +2,6 @@
 To build a React-based web application where users can upload their resume (PDF or text), and the backend:
 - Extracts keywords & topics from the resume
 - Computes similarity to available job descriptions
-- Constructs a graph of resumes and jobs
+- Constructs a graph of resumes and job roles.
 - Uses graph algorithms to suggest the most relevant job roles or career paths
 - Visualizes the graph optionally for interpretability
